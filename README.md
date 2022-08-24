@@ -43,7 +43,7 @@ python3 trispi.py
 
 
 
-### Aperçu du Ransomware
+### Aperçu du Programme
 <img src=""></img>
 Testé sur un apareil ```Android 11```
 
