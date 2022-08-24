@@ -13,7 +13,7 @@ L'utilisateur peut modifier:
 - ```alert_desc``` - modifier la description de l'alerte
 - ```key_pass``` - modifier le mot de passe pour dévérouiller les appareils
 ### Installation
-Rapide installation pour Ubuntu, Kali Linux, Darwin (MAC)
+Rapide installation pour Kali Linux, Ubuntu, Darwin (MAC):
 ```bash
 git clone https://github.com/termuxhackers-id/TRISPI && cd TRISPI && sudo bash install.sh
 ```
@@ -28,7 +28,7 @@ Puis lancer le programme avec:
 python3 trispi.py
 ```
 
-Rapide installation pour Termux Android (ROOT)
+Rapide installation pour Termux Android (ROOT):
 ````bash
 apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/trispi/TRISPI && cd TRISPI && tsu && bash installtermux.sh && python3 teh trispi.py
 ````
