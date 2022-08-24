@@ -32,7 +32,7 @@ python3 trispi.py
 ### Dependences
 - Java
   - Openjdk 11
-- Aapt
+- Aapt 
 - Apktool
   - Apktool 2.4.0
 - Zipalign
