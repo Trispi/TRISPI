@@ -13,26 +13,22 @@ L'utilisateur peut modifier:
 - ```alert_desc``` - modifier la description de l'alerte
 - ```key_pass``` - modifier le mot de passe pour dévérouiller les appareils
 ### Installation
-Installation pour Kali Linux, Ubuntu, Darwin (MAC):
+Rapide installation pour Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/Trispi/TRISPI
+git clone https://github.com/termuxhackers-id/TRISPI && cd TRISPI && sudo bash install.sh
 ```
-```bash
-cd TRISPI
-```
-```bash
-sudo bash install.sh
-```
-Puis lancer le programme avec:
-```bash
-python3 trispi.py
-```
+
+Rapide installation pour Termux Android (ROOT)
+````bash
+apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/trispi/TRISPI && cd TRISPI && tsu && bash installtermux.sh && python3 teh trispi.py
+````
+#### Trispi pour Termux par [@trispi]
 
 
 ### Dependences
 - Java
   - Openjdk 11
-- Aapt 
+- Aapt
 - Apktool
   - Apktool 2.4.0
 - Zipalign
@@ -43,7 +39,7 @@ python3 trispi.py
 
 
 
-### Aperçu du Programme
+### Aperçu du Ransomware
 <img src=""></img>
 Testé sur un apareil ```Android 11```
 
