@@ -28,12 +28,6 @@ Puis lancer le programme avec:
 python3 trispi.py
 ```
 
-Rapide installation pour Termux Android (ROOT):
-````bash
-apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/trispi/TRISPI && cd TRISPI && tsu && bash installtermux.sh && python3 teh trispi.py
-````
-#### Trispi pour Termux par [@trispi]
-
 
 ### Dependences
 - Java
