@@ -17,6 +17,16 @@ Rapide installation pour Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
 git clone https://github.com/termuxhackers-id/TRISPI && cd TRISPI && sudo bash install.sh
 ```
+```bash
+cd TRISPI
+```
+```bash
+sudo bash install.sh
+```
+Puis lancer le programme avec:
+```bash
+python3 trispi.py
+```
 
 Rapide installation pour Termux Android (ROOT)
 ````bash
