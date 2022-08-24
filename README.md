@@ -15,7 +15,7 @@ L'utilisateur peut modifier:
 ### Installation
 Rapide installation pour Kali Linux, Ubuntu, Darwin (MAC):
 ```bash
-git clone https://github.com/termuxhackers-id/TRISPI && cd TRISPI && sudo bash install.sh
+git clone https://github.com/Trispi/TRISPI
 ```
 ```bash
 cd TRISPI
