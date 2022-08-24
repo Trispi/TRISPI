@@ -13,7 +13,7 @@ L'utilisateur peut modifier:
 - ```alert_desc``` - modifier la description de l'alerte
 - ```key_pass``` - modifier le mot de passe pour dévérouiller les appareils
 ### Installation
-Rapide installation pour Kali Linux, Ubuntu, Darwin (MAC):
+Installation pour Kali Linux, Ubuntu, Darwin (MAC):
 ```bash
 git clone https://github.com/Trispi/TRISPI
 ```
