@@ -9,7 +9,7 @@ L'auteur n'est pas responsable des dommages causés par ce programme.
 ### Fonctionnalités
 L'utilisateur peut modifier:
 - ```app_icon``` - modifier l'icone de l'application
-- ```app_name``` - modifier le nnom de l'application
+- ```app_name``` - modifier le nom de l'application
 - ```alert_title``` - modifier le titre de l'alerte
 - ```alert_desc``` - modifier la description de l'alerte
 - ```key_pass``` - modifier le mot de passe pour dévérouiller les appareils
