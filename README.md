@@ -1,5 +1,4 @@
-<img title="TRISPI" src=""> 
-<img src="">
+<img title="TRISPI" src="https://user-images.githubusercontent.com/111994029/186548934-d42c60e2-985b-42bb-b9a4-a35ac587360b.png"> 
 TRISPI - Simple attaque par Ransomware pour Android
 
 ### NON RESPONSABILITÉ
@@ -40,12 +39,12 @@ apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow &
 
 
 ### Aperçu du Ransomware
-<img src=""></img>
+<img src="https://user-images.githubusercontent.com/111994029/186548887-89f8843a-f213-4c23-8a89-39fb62f756b6.jpg"></img>
 Testé sur un apareil ```Android 11```
 
 
 ### Sortie Logs
-<img src=""></img>
+<img src="https://user-images.githubusercontent.com/111994029/186548936-7cf06699-7098-4234-81d5-3bb1cde2ce10.png"></img>
 
 ### Suivez Moi
 
