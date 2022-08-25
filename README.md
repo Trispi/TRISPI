@@ -11,17 +11,26 @@ L'utilisateur peut modifier:
 - ```alert_title``` - modifier le titre de l'alerte
 - ```alert_desc``` - modifier la description de l'alerte
 - ```key_pass``` - modifier le mot de passe pour dévérouiller les appareils
+- 
 ### Installation
-Rapide installation pour Ubuntu, Kali Linux, Darwin (MAC)
-```bash
-git clone https://github.com/termuxhackers-id/TRISPI && cd TRISPI && sudo bash install.sh
-```
 
-Rapide installation pour Termux Android (ROOT)
-````bash
-apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/trispi/TRISPI && cd TRISPI && tsu && bash installtermux.sh && python3 teh trispi.py
+Installation pour Kali Linux, Ubuntu, Darwin (MAC)
+
+```bash
+git clone https://github.com/termuxhackers-id/TRISPI
+```
+```bash
+cd TRISPI
+```
+```bash
+sudo bash install.sh
 ````
-#### Trispi pour Termux par [@trispi]
+
+Puis lancez le programme avec:
+
+```bash
+python3 trispi.py
+```
 
 
 ### Dependences
@@ -48,6 +57,6 @@ Testé sur un apareil ```Android 11```
 
 ### Suivez Moi
 
-Instagram []()<br>
+Instagram [](https://www.instagram.com/kali_trispi/)<br>
 
 
