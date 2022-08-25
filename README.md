@@ -1,5 +1,6 @@
-<img title="TRISPI" src="https://user-images.githubusercontent.com/111994029/186548934-d42c60e2-985b-42bb-b9a4-a35ac587360b.png"> 
 TRISPI - Simple attaque par Ransomware pour Android
+
+<img title="TRISPI" src="https://user-images.githubusercontent.com/111994029/186548934-d42c60e2-985b-42bb-b9a4-a35ac587360b.png"> 
 
 ### NON RESPONSABILITÉ
 L'auteur n'est pas responsable des dommages causés par ce programme.
@@ -14,7 +15,7 @@ L'utilisateur peut modifier:
 - 
 ### Installation
 
-Installation pour Kali Linux, Ubuntu, Darwin (MAC)
+Installation pour Kali Linux, Ubuntu, Darwin (MAC):
 
 ```bash
 git clone https://github.com/termuxhackers-id/TRISPI
@@ -57,6 +58,6 @@ Testé sur un apareil ```Android 11```
 
 ### Suivez Moi
 
-Instagram [https://www.instagram.com/kali_trispi]()<br>
+Instagram [](https://www.instagram.com/kali_trispi)<br>
 
 
