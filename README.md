@@ -18,7 +18,7 @@ L'utilisateur peut modifier:
 Installation pour Kali Linux, Ubuntu, Darwin (MAC):
 
 ```bash
-git clone https://github.com/termuxhackers-id/TRISPI
+git clone https://github.com/Trispi/TRISPI
 ```
 ```bash
 cd TRISPI
